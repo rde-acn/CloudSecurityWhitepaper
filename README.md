@@ -72,7 +72,17 @@ This whitepaper provides security leaders, architects, and practitioners with a 
 
 
 
+## RDE_Whitepaper_Preview
+Abstract : As organizations accelerate their migration to the cloud, securing cloud infrastructure, data, and workloads has never been more critical. The whitepaper examines key dimensions of cloud security — including the shared responsibility model, identity and access management, data protection, network security, threat detection, and compliance — providing a structured framework that organizations of all sizes can adapt to strengthen their security posture across public, private, and hybrid cloud environments.
 
+Keyfindings : 📊 94% of enterprises use cloud services, yet only 32% have a mature cloud security program.
+💰 The average cost of a cloud data breach reached $4.75 million in 2025.
+🛡️ Organizations with a Zero Trust architecture experience 50% fewer breaches than those without.
+⏱️ The industry average time to detect a cloud breach is 197 days.
+⚡ Organizations with centralized SIEM and automated detection rules reduce detection time to under 24 hours.
+📉 Mean Time to Contain (MTTC) drops by 75% when incident response playbooks are pre-defined and tested
+
+Introduction : Cloud computing has fundamentally transformed how organizations build, deploy, and manage their digital infrastructure. While the cloud offers unparalleled agility, scalability, and cost-efficiency, it also introduces a complex and evolving threat landscape that demands a purpose-built security strategy.
 
 ## RDEData
 title : CloudSecurityWallPaper
@@ -85,7 +95,7 @@ metadata: { capability: 'Storage Solution', integrationType: 'Semantic Search', 
 previewCodeFileName : na
 
 ## RDE_UsageGuide_Install
-command : npm install @reinvention/perAgent
+command : npm install @reinvention/cloudsec
 
 ## RDE_UsageGuide_QuickStart
 import { FPP } from '@reinvention/package';
