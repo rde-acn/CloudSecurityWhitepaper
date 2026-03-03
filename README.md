@@ -73,11 +73,11 @@ This whitepaper provides security leaders, architects, and practitioners with a 
 
 
 ## RDE_Whitepaper_Preview
-**Abstract** : 
+## Abstract 
 
 As organizations accelerate their migration to the cloud, securing cloud infrastructure, data, and workloads has never been more critical. The whitepaper examines key dimensions of cloud security — including the shared responsibility model, identity and access management, data protection, network security, threat detection, and compliance — providing a structured framework that organizations of all sizes can adapt to strengthen their security posture across public, private, and hybrid cloud environments.
 
-**Keyfindings** :
+## Keyfindings
 
 📊 94% of enterprises use cloud services, yet only 32% have a mature cloud security program.
 💰 The average cost of a cloud data breach reached $4.75 million in 2025.
@@ -86,7 +86,9 @@ As organizations accelerate their migration to the cloud, securing cloud infrast
 ⚡ Organizations with centralized SIEM and automated detection rules reduce detection time to under 24 hours.
 📉 Mean Time to Contain (MTTC) drops by 75% when incident response playbooks are pre-defined and tested
 
-Introduction : Cloud computing has fundamentally transformed how organizations build, deploy, and manage their digital infrastructure. While the cloud offers unparalleled agility, scalability, and cost-efficiency, it also introduces a complex and evolving threat landscape that demands a purpose-built security strategy.
+## Introduction 
+
+Cloud computing has fundamentally transformed how organizations build, deploy, and manage their digital infrastructure. While the cloud offers unparalleled agility, scalability, and cost-efficiency, it also introduces a complex and evolving threat landscape that demands a purpose-built security strategy.
 
 ## RDEData
 title : CloudSecurityWallPaper
