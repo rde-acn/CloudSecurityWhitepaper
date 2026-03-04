@@ -79,12 +79,12 @@ As organizations accelerate their migration to the cloud, securing cloud infrast
 
 ## Keyfindings
 
-94% of enterprises use cloud services, yet only 32% have a mature cloud security program.
-The average cost of a cloud data breach reached $4.75 million in 2025.
-Organizations with a Zero Trust architecture experience 50% fewer breaches than those without.
-The industry average time to detect a cloud breach is 197 days.
-Organizations with centralized SIEM and automated detection rules reduce detection time to under 24 hours.
-Mean Time to Contain (MTTC) drops by 75% when incident response playbooks are pre-defined and tested
+-  94% of enterprises use cloud services, yet only 32% have a mature cloud security program.
+-  The average cost of a cloud data breach reached $4.75 million in 2025.
+-  Organizations with a Zero Trust architecture experience 50% fewer breaches than those without.
+-  The industry average time to detect a cloud breach is 197 days.
+-  Organizations with centralized SIEM and automated detection rules reduce detection time to under 24 hours.
+-  Mean Time to Contain (MTTC) drops by 75% when incident response playbooks are pre-defined and tested
 
 ## Introduction 
 
